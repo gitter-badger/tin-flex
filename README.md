@@ -1,6 +1,8 @@
 tin-flex💫 基于flex的极简框架
 ====
 
+[![Join the chat at https://gitter.im/tin-flex/Lobby](https://badges.gitter.im/tin-flex/Lobby.svg)](https://gitter.im/tin-flex/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/weui/weui.svg?branch=master)](https://travis-ci.org/weui/weui)
 [![npm version](https://img.shields.io/npm/v/tin-flex.svg)](https://www.npmjs.com/package/tin-flex)
 [![Gitter](https://badges.gitter.im/weui/weui.svg)](https://gitter.im/weui/weui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
